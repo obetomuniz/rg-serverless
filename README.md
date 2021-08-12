@@ -30,4 +30,4 @@ npm run dev
 
 - GraphQL architecture is declared on `graphql` folder
 - Serverless GraphQL API is exposed on `/graphql` route
-- The project was deployed on Vercel under [5wxgc1ta0f.execute-api.us-east-1.amazonaws.com/dev/graphql](https://5wxgc1ta0f.execute-api.us-east-1.amazonaws.com/dev/graphql) URL for convenience
+- The project was deployed on AWS Lambda under [5wxgc1ta0f.execute-api.us-east-1.amazonaws.com/dev/graphql](https://5wxgc1ta0f.execute-api.us-east-1.amazonaws.com/dev/graphql) URL for convenience (Anyway, by design, it only accepts POST requests)
