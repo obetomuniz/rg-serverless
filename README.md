@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-Finally, open [http://localhost:4000](http://localhost:4000) to manage your server
+5. Open [http://localhost:4000](http://localhost:4000) to manage your server
 
 ## Dev Notes
 
