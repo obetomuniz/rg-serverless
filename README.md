@@ -30,3 +30,4 @@ Finally, open [http://localhost:4000](http://localhost:4000) to manage your serv
 
 - GraphQL architecture is declared on `graphql` folder
 - Serverless GraphQL API is exposed on `/graphql` route
+- The project was deployed on Vercel under [5wxgc1ta0f.execute-api.us-east-1.amazonaws.com/dev/graphql](https://5wxgc1ta0f.execute-api.us-east-1.amazonaws.com/dev/graphql) URL for convenience
